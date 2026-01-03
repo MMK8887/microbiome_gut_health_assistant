@@ -1,0 +1,285 @@
+date,user,fiber_score,probiotic_score,diversity_score,recommendation
+01-04-2025,Alice,6.6,4.5,4.7,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+03-04-2025,Alice,6.6,4.4,5.1,"Boost probiotics with yogurt, kefir, or kimchi."
+05-04-2025,Alice,7.1,4.3,6,"Boost probiotics with yogurt, kefir, or kimchi."
+07-04-2025,Alice,6.5,4,4.2,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+09-04-2025,Alice,7,4.8,4.8,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+11-04-2025,Alice,6.9,4.8,5.1,"Boost probiotics with yogurt, kefir, or kimchi."
+13-04-2025,Alice,6.3,4.8,4.9,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+15-04-2025,Alice,7.1,5.1,5.8,All scores look good! Maintain your current routine.
+17-04-2025,Alice,6.8,4.3,5.5,"Boost probiotics with yogurt, kefir, or kimchi."
+19-04-2025,Alice,6.7,3.3,5.7,"Boost probiotics with yogurt, kefir, or kimchi."
+21-04-2025,Alice,6.7,4.8,4.2,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+23-04-2025,Alice,7.8,4.3,5.2,"Boost probiotics with yogurt, kefir, or kimchi."
+25-04-2025,Alice,6.1,4.5,5.1,"Boost probiotics with yogurt, kefir, or kimchi."
+27-04-2025,Alice,6.6,4.7,4.9,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+29-04-2025,Alice,7.5,4.3,4.5,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+01-05-2025,Alice,7.1,5.2,6.1,All scores look good! Maintain your current routine.
+03-05-2025,Alice,7.3,3.6,5.3,"Boost probiotics with yogurt, kefir, or kimchi."
+05-05-2025,Alice,7.6,4.6,4.7,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+07-05-2025,Alice,7.2,4.6,5.8,"Boost probiotics with yogurt, kefir, or kimchi."
+09-05-2025,Alice,7,5.7,5.6,All scores look good! Maintain your current routine.
+11-05-2025,Alice,6.3,5,5.5,All scores look good! Maintain your current routine.
+13-05-2025,Alice,6.6,4.6,3.8,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+15-05-2025,Alice,7.6,4.7,4.2,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+17-05-2025,Alice,5.8,4.7,5.6,"Boost probiotics with yogurt, kefir, or kimchi."
+19-05-2025,Alice,6.7,5.1,4.4,Increase plant diversity; aim for 20-30 different types per week.
+21-05-2025,Alice,6.3,5.6,5.7,All scores look good! Maintain your current routine.
+23-05-2025,Alice,7,5.8,4.8,Increase plant diversity; aim for 20-30 different types per week.
+25-05-2025,Alice,6.5,5.5,6.1,All scores look good! Maintain your current routine.
+27-05-2025,Alice,6.9,6,4.9,Increase plant diversity; aim for 20-30 different types per week.
+29-05-2025,Alice,7.3,5.1,4.6,Increase plant diversity; aim for 20-30 different types per week.
+31-05-2025,Alice,7,5.6,5.1,All scores look good! Maintain your current routine.
+02-06-2025,Alice,6.8,5.8,4.4,Increase plant diversity; aim for 20-30 different types per week.
+04-06-2025,Alice,6.2,4.9,4.8,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+06-06-2025,Alice,7.9,5.4,4.9,Increase plant diversity; aim for 20-30 different types per week.
+08-06-2025,Alice,6.4,6.8,4.7,Increase plant diversity; aim for 20-30 different types per week.
+10-06-2025,Alice,6.5,5.4,5.7,All scores look good! Maintain your current routine.
+12-06-2025,Alice,7.3,4.9,4.9,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+14-06-2025,Alice,7.3,5.2,4.3,Increase plant diversity; aim for 20-30 different types per week.
+16-06-2025,Alice,7.5,5.7,5,All scores look good! Maintain your current routine.
+18-06-2025,Alice,7,5.6,5.2,All scores look good! Maintain your current routine.
+20-06-2025,Alice,6.3,5.7,4.6,Increase plant diversity; aim for 20-30 different types per week.
+22-06-2025,Alice,7,4.4,5.1,"Boost probiotics with yogurt, kefir, or kimchi."
+24-06-2025,Alice,6.9,6.5,4.8,Increase plant diversity; aim for 20-30 different types per week.
+26-06-2025,Alice,6.4,5.2,5,Increase plant diversity; aim for 20-30 different types per week.
+28-06-2025,Alice,6.6,5.7,5.8,All scores look good! Maintain your current routine.
+30-06-2025,Alice,7.9,5,6.8,"Boost probiotics with yogurt, kefir, or kimchi."
+02-07-2025,Alice,8.4,6.6,4.3,Increase plant diversity; aim for 20-30 different types per week.
+04-07-2025,Alice,7.1,6.7,4.2,Increase plant diversity; aim for 20-30 different types per week.
+06-07-2025,Alice,6.9,6.4,4.8,Increase plant diversity; aim for 20-30 different types per week.
+08-07-2025,Alice,7.4,7.3,5.2,All scores look good! Maintain your current routine.
+10-07-2025,Alice,7.4,6.5,5.3,All scores look good! Maintain your current routine.
+12-07-2025,Alice,7,7,5.1,All scores look good! Maintain your current routine.
+14-07-2025,Alice,5.6,7,4.4,Increase plant diversity; aim for 20-30 different types per week.
+16-07-2025,Alice,7.3,8,5.7,All scores look good! Maintain your current routine.
+18-07-2025,Alice,6.4,6,6.4,All scores look good! Maintain your current routine.
+20-07-2025,Alice,6.9,7,5.9,All scores look good! Maintain your current routine.
+22-07-2025,Alice,7.1,6.7,5,Increase plant diversity; aim for 20-30 different types per week.
+24-07-2025,Alice,5.4,6.1,5.8,All scores look good! Maintain your current routine.
+26-07-2025,Alice,6.9,7.1,5.4,All scores look good! Maintain your current routine.
+28-07-2025,Alice,7,7.3,4.9,Increase plant diversity; aim for 20-30 different types per week.
+30-07-2025,Alice,7.1,6.2,6.4,All scores look good! Maintain your current routine.
+01-08-2025,Alice,7.2,7.4,6.6,All scores look good! Maintain your current routine.
+03-08-2025,Alice,7.6,6.9,5.8,All scores look good! Maintain your current routine.
+05-08-2025,Alice,6.3,7.4,5.7,All scores look good! Maintain your current routine.
+07-08-2025,Alice,6.3,8.1,5.5,All scores look good! Maintain your current routine.
+09-08-2025,Alice,7.4,6.8,6.1,All scores look good! Maintain your current routine.
+11-08-2025,Alice,7.8,6.6,4.5,Increase plant diversity; aim for 20-30 different types per week.
+13-08-2025,Alice,7.2,7.8,5.6,All scores look good! Maintain your current routine.
+15-08-2025,Alice,6.9,7.6,4.1,Increase plant diversity; aim for 20-30 different types per week.
+17-08-2025,Alice,6.6,6.3,5.6,All scores look good! Maintain your current routine.
+19-08-2025,Alice,6.7,6.6,5.5,All scores look good! Maintain your current routine.
+01-04-2025,Bob,5.1,5.5,3.6,Increase plant diversity; aim for 20-30 different types per week.
+03-04-2025,Bob,6,5.2,4.8,Increase plant diversity; aim for 20-30 different types per week.
+05-04-2025,Bob,5.8,5.8,4.2,Increase plant diversity; aim for 20-30 different types per week.
+07-04-2025,Bob,5.3,5.8,4.1,Increase plant diversity; aim for 20-30 different types per week.
+09-04-2025,Bob,6.3,5.4,4.1,Increase plant diversity; aim for 20-30 different types per week.
+11-04-2025,Bob,6.5,6.9,3.8,Increase plant diversity; aim for 20-30 different types per week.
+13-04-2025,Bob,6.1,5.2,4.4,Increase plant diversity; aim for 20-30 different types per week.
+15-04-2025,Bob,6.2,6.2,2.5,Increase plant diversity; aim for 20-30 different types per week.
+17-04-2025,Bob,5.8,5.1,4.4,Increase plant diversity; aim for 20-30 different types per week.
+19-04-2025,Bob,5.4,5.1,4.6,Increase plant diversity; aim for 20-30 different types per week.
+21-04-2025,Bob,6.9,3.8,3.9,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+23-04-2025,Bob,6.3,5.7,4.3,Increase plant diversity; aim for 20-30 different types per week.
+25-04-2025,Bob,5.2,5.1,4.9,Increase plant diversity; aim for 20-30 different types per week.
+27-04-2025,Bob,6.4,5.5,3.6,Increase plant diversity; aim for 20-30 different types per week.
+29-04-2025,Bob,6,5.5,4.7,Increase plant diversity; aim for 20-30 different types per week.
+01-05-2025,Bob,6.2,5.4,4.8,Increase plant diversity; aim for 20-30 different types per week.
+03-05-2025,Bob,5.1,6.1,5.1,All scores look good! Maintain your current routine.
+05-05-2025,Bob,5.1,5.8,3.7,Increase plant diversity; aim for 20-30 different types per week.
+07-05-2025,Bob,6.7,6.3,4.6,Increase plant diversity; aim for 20-30 different types per week.
+09-05-2025,Bob,6.6,5.5,4.3,Increase plant diversity; aim for 20-30 different types per week.
+11-05-2025,Bob,5.4,5.5,4.2,Increase plant diversity; aim for 20-30 different types per week.
+13-05-2025,Bob,6,5.3,5.1,All scores look good! Maintain your current routine.
+15-05-2025,Bob,6.7,5.6,4,Increase plant diversity; aim for 20-30 different types per week.
+17-05-2025,Bob,6.2,6.3,4.5,Increase plant diversity; aim for 20-30 different types per week.
+19-05-2025,Bob,5,5.8,5.4,"Increase fiber intake with oats, beans, or lentils."
+21-05-2025,Bob,4.9,6.2,4.8,"Increase fiber intake with oats, beans, or lentils.; Increase plant diversity; aim for 20-30 different types per week."
+23-05-2025,Bob,5.4,6.1,4.1,Increase plant diversity; aim for 20-30 different types per week.
+25-05-2025,Bob,5.8,6.4,4.7,Increase plant diversity; aim for 20-30 different types per week.
+27-05-2025,Bob,5.3,4.7,4.1,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+29-05-2025,Bob,4.9,6.9,5,"Increase fiber intake with oats, beans, or lentils.; Increase plant diversity; aim for 20-30 different types per week."
+31-05-2025,Bob,5.1,5,4.2,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+02-06-2025,Bob,5.5,4.9,5.7,"Boost probiotics with yogurt, kefir, or kimchi."
+04-06-2025,Bob,5.5,5.5,5.3,All scores look good! Maintain your current routine.
+06-06-2025,Bob,6.8,6.7,4.8,Increase plant diversity; aim for 20-30 different types per week.
+08-06-2025,Bob,5.8,5.8,5.7,All scores look good! Maintain your current routine.
+10-06-2025,Bob,6,5.3,4.3,Increase plant diversity; aim for 20-30 different types per week.
+12-06-2025,Bob,6.1,5.3,6.1,All scores look good! Maintain your current routine.
+14-06-2025,Bob,5.8,5.2,5.4,All scores look good! Maintain your current routine.
+16-06-2025,Bob,5.3,5.7,5.5,All scores look good! Maintain your current routine.
+18-06-2025,Bob,5.1,4.9,5.6,"Boost probiotics with yogurt, kefir, or kimchi."
+20-06-2025,Bob,5.8,6.1,5.6,All scores look good! Maintain your current routine.
+22-06-2025,Bob,5.5,6.2,5.1,All scores look good! Maintain your current routine.
+24-06-2025,Bob,5.8,5.4,4.6,Increase plant diversity; aim for 20-30 different types per week.
+26-06-2025,Bob,6.3,6.4,4.4,Increase plant diversity; aim for 20-30 different types per week.
+28-06-2025,Bob,5,6.1,6.5,All scores look good! Maintain your current routine.
+30-06-2025,Bob,5.2,5.7,4.3,Increase plant diversity; aim for 20-30 different types per week.
+02-07-2025,Bob,7.4,6.4,6.1,All scores look good! Maintain your current routine.
+04-07-2025,Bob,6.2,6.6,5.9,All scores look good! Maintain your current routine.
+06-07-2025,Bob,5.4,6.3,5.8,All scores look good! Maintain your current routine.
+08-07-2025,Bob,6.5,5.5,5.1,All scores look good! Maintain your current routine.
+10-07-2025,Bob,6.3,6.9,5.8,All scores look good! Maintain your current routine.
+12-07-2025,Bob,5.2,5.9,5.7,All scores look good! Maintain your current routine.
+14-07-2025,Bob,6.7,6.4,6.1,All scores look good! Maintain your current routine.
+16-07-2025,Bob,6.1,5.8,6.5,All scores look good! Maintain your current routine.
+18-07-2025,Bob,6.8,6.5,5.7,All scores look good! Maintain your current routine.
+20-07-2025,Bob,6.2,5.7,6.5,All scores look good! Maintain your current routine.
+22-07-2025,Bob,5.3,5.5,6,All scores look good! Maintain your current routine.
+24-07-2025,Bob,6.1,7.4,5.8,All scores look good! Maintain your current routine.
+26-07-2025,Bob,5.6,5.3,5.1,All scores look good! Maintain your current routine.
+28-07-2025,Bob,4.5,6.3,4.9,"Increase fiber intake with oats, beans, or lentils.; Increase plant diversity; aim for 20-30 different types per week."
+30-07-2025,Bob,6.5,7.1,5.8,All scores look good! Maintain your current routine.
+01-08-2025,Bob,6.8,6.3,6.6,All scores look good! Maintain your current routine.
+03-08-2025,Bob,5.4,6.5,5.1,All scores look good! Maintain your current routine.
+05-08-2025,Bob,6.1,5.9,5.8,All scores look good! Maintain your current routine.
+07-08-2025,Bob,6.3,6.4,6.1,All scores look good! Maintain your current routine.
+09-08-2025,Bob,6,6.6,5,All scores look good! Maintain your current routine.
+11-08-2025,Bob,5.8,6.4,5.3,All scores look good! Maintain your current routine.
+13-08-2025,Bob,6.1,5.5,7.1,All scores look good! Maintain your current routine.
+15-08-2025,Bob,5.6,6.2,6.9,All scores look good! Maintain your current routine.
+17-08-2025,Bob,5.4,6.4,5.2,All scores look good! Maintain your current routine.
+19-08-2025,Bob,5.3,5.4,6,All scores look good! Maintain your current routine.
+01-04-2025,Charlie,4.8,4.7,4.9,"Increase fiber intake with oats, beans, or lentils.; Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+03-04-2025,Charlie,3.8,4.2,4.4,"Increase fiber intake with oats, beans, or lentils.; Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+05-04-2025,Charlie,4.5,4.8,4.3,"Increase fiber intake with oats, beans, or lentils.; Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+07-04-2025,Charlie,4.5,4.4,4.3,"Increase fiber intake with oats, beans, or lentils.; Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+09-04-2025,Charlie,5.2,4.4,4.8,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+11-04-2025,Charlie,5.3,4.8,5,"Boost probiotics with yogurt, kefir, or kimchi."
+13-04-2025,Charlie,3.7,5.7,2.9,"Increase fiber intake with oats, beans, or lentils.; Increase plant diversity; aim for 20-30 different types per week."
+15-04-2025,Charlie,3.6,4,5.5,"Increase fiber intake with oats, beans, or lentils.; Boost probiotics with yogurt, kefir, or kimchi."
+17-04-2025,Charlie,4.7,4.6,4,"Increase fiber intake with oats, beans, or lentils.; Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+19-04-2025,Charlie,4.5,4.6,4.1,"Increase fiber intake with oats, beans, or lentils.; Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+21-04-2025,Charlie,3.3,3.9,4.5,"Increase fiber intake with oats, beans, or lentils.; Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+23-04-2025,Charlie,4.7,4.8,4.7,"Increase fiber intake with oats, beans, or lentils.; Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+25-04-2025,Charlie,3.4,4.8,4.1,"Increase fiber intake with oats, beans, or lentils.; Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+27-04-2025,Charlie,4.2,4.8,4,"Increase fiber intake with oats, beans, or lentils.; Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+29-04-2025,Charlie,3.8,5.3,4.9,"Increase fiber intake with oats, beans, or lentils.; Increase plant diversity; aim for 20-30 different types per week."
+01-05-2025,Charlie,4.2,3,4.9,"Increase fiber intake with oats, beans, or lentils.; Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+03-05-2025,Charlie,4.7,5.3,4.2,"Increase fiber intake with oats, beans, or lentils.; Increase plant diversity; aim for 20-30 different types per week."
+05-05-2025,Charlie,3.9,4.3,5,"Increase fiber intake with oats, beans, or lentils.; Boost probiotics with yogurt, kefir, or kimchi."
+07-05-2025,Charlie,3.9,4.7,4.4,"Increase fiber intake with oats, beans, or lentils.; Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+09-05-2025,Charlie,4.7,3.8,5.1,"Increase fiber intake with oats, beans, or lentils.; Boost probiotics with yogurt, kefir, or kimchi."
+11-05-2025,Charlie,4,4.4,4.9,"Increase fiber intake with oats, beans, or lentils.; Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+13-05-2025,Charlie,5.2,3.7,5.4,"Boost probiotics with yogurt, kefir, or kimchi."
+15-05-2025,Charlie,5.9,4.7,5.9,"Boost probiotics with yogurt, kefir, or kimchi."
+17-05-2025,Charlie,5.4,5.4,4.4,Increase plant diversity; aim for 20-30 different types per week.
+19-05-2025,Charlie,4.7,5.3,6,"Increase fiber intake with oats, beans, or lentils."
+21-05-2025,Charlie,5.9,5.4,4.8,Increase plant diversity; aim for 20-30 different types per week.
+23-05-2025,Charlie,4.7,4.7,5.9,"Increase fiber intake with oats, beans, or lentils.; Boost probiotics with yogurt, kefir, or kimchi."
+25-05-2025,Charlie,4.1,4.3,3.5,"Increase fiber intake with oats, beans, or lentils.; Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+27-05-2025,Charlie,5.5,5.3,4.2,Increase plant diversity; aim for 20-30 different types per week.
+29-05-2025,Charlie,5.4,5.7,5.2,All scores look good! Maintain your current routine.
+31-05-2025,Charlie,4.6,3.9,3.7,"Increase fiber intake with oats, beans, or lentils.; Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+02-06-2025,Charlie,5.8,4.2,5.5,"Boost probiotics with yogurt, kefir, or kimchi."
+04-06-2025,Charlie,6.2,4.5,4.9,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+06-06-2025,Charlie,6,4.9,5.3,"Boost probiotics with yogurt, kefir, or kimchi."
+08-06-2025,Charlie,4.3,5.2,4.3,"Increase fiber intake with oats, beans, or lentils.; Increase plant diversity; aim for 20-30 different types per week."
+10-06-2025,Charlie,4.2,4.4,5.4,"Increase fiber intake with oats, beans, or lentils.; Boost probiotics with yogurt, kefir, or kimchi."
+12-06-2025,Charlie,7,4.7,4.6,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+14-06-2025,Charlie,6.7,4.8,4.9,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+16-06-2025,Charlie,4.8,4.1,5.9,"Increase fiber intake with oats, beans, or lentils.; Boost probiotics with yogurt, kefir, or kimchi."
+18-06-2025,Charlie,5.6,4.6,5.1,"Boost probiotics with yogurt, kefir, or kimchi."
+20-06-2025,Charlie,6.6,4.5,5.7,"Boost probiotics with yogurt, kefir, or kimchi."
+22-06-2025,Charlie,5.6,4.8,4.4,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+24-06-2025,Charlie,6,5.8,5.2,All scores look good! Maintain your current routine.
+26-06-2025,Charlie,5.3,4.2,5.6,"Boost probiotics with yogurt, kefir, or kimchi."
+28-06-2025,Charlie,5.4,4.7,5.2,"Boost probiotics with yogurt, kefir, or kimchi."
+30-06-2025,Charlie,4.6,5.2,5.2,"Increase fiber intake with oats, beans, or lentils."
+02-07-2025,Charlie,5.8,5.1,6.1,All scores look good! Maintain your current routine.
+04-07-2025,Charlie,5.8,4.4,6.1,"Boost probiotics with yogurt, kefir, or kimchi."
+06-07-2025,Charlie,5.3,4.3,4.2,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+08-07-2025,Charlie,5.7,4.2,5.1,"Boost probiotics with yogurt, kefir, or kimchi."
+10-07-2025,Charlie,6.2,5,6.3,All scores look good! Maintain your current routine.
+12-07-2025,Charlie,5.9,4.5,5.1,"Boost probiotics with yogurt, kefir, or kimchi."
+14-07-2025,Charlie,5.3,5.1,5.3,All scores look good! Maintain your current routine.
+16-07-2025,Charlie,5.7,5.5,5.7,All scores look good! Maintain your current routine.
+18-07-2025,Charlie,5.6,4,5.9,"Boost probiotics with yogurt, kefir, or kimchi."
+20-07-2025,Charlie,5.8,4.8,5,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+22-07-2025,Charlie,5.3,4.7,5.7,"Boost probiotics with yogurt, kefir, or kimchi."
+24-07-2025,Charlie,6,4.9,5.5,"Boost probiotics with yogurt, kefir, or kimchi."
+26-07-2025,Charlie,6,5,5,"Boost probiotics with yogurt, kefir, or kimchi."
+28-07-2025,Charlie,6.2,5.3,5.9,All scores look good! Maintain your current routine.
+30-07-2025,Charlie,6,4.9,5.1,"Boost probiotics with yogurt, kefir, or kimchi."
+01-08-2025,Charlie,6.5,3.7,5.5,"Boost probiotics with yogurt, kefir, or kimchi."
+03-08-2025,Charlie,5.5,5.3,5.4,All scores look good! Maintain your current routine.
+05-08-2025,Charlie,5.4,4.1,5.2,"Boost probiotics with yogurt, kefir, or kimchi."
+07-08-2025,Charlie,6.2,5.1,5.8,All scores look good! Maintain your current routine.
+09-08-2025,Charlie,5.5,4.7,6.2,"Boost probiotics with yogurt, kefir, or kimchi."
+11-08-2025,Charlie,5.2,4.8,6.5,"Boost probiotics with yogurt, kefir, or kimchi."
+13-08-2025,Charlie,6.5,4.8,6.3,"Boost probiotics with yogurt, kefir, or kimchi."
+15-08-2025,Charlie,5.7,5,6.8,All scores look good! Maintain your current routine.
+17-08-2025,Charlie,7,3.8,6,"Boost probiotics with yogurt, kefir, or kimchi."
+19-08-2025,Charlie,7.2,4.6,6,"Boost probiotics with yogurt, kefir, or kimchi."
+01-04-2025,Guest,6.2,4.5,5.6,"Boost probiotics with yogurt, kefir, or kimchi."
+03-04-2025,Guest,5.7,4.5,5.8,"Boost probiotics with yogurt, kefir, or kimchi."
+05-04-2025,Guest,5.2,3.7,6.1,"Boost probiotics with yogurt, kefir, or kimchi."
+07-04-2025,Guest,5.5,4.4,5.3,"Boost probiotics with yogurt, kefir, or kimchi."
+09-04-2025,Guest,5.7,4.8,5.7,"Boost probiotics with yogurt, kefir, or kimchi."
+11-04-2025,Guest,4.5,5.3,5.8,"Increase fiber intake with oats, beans, or lentils."
+13-04-2025,Guest,5.3,3.8,6.4,"Boost probiotics with yogurt, kefir, or kimchi."
+15-04-2025,Guest,5.4,4.7,6.9,"Boost probiotics with yogurt, kefir, or kimchi."
+17-04-2025,Guest,5.5,4.2,5.6,"Boost probiotics with yogurt, kefir, or kimchi."
+19-04-2025,Guest,3.9,5.5,5.3,"Increase fiber intake with oats, beans, or lentils."
+21-04-2025,Guest,4.8,5.5,4.5,"Increase fiber intake with oats, beans, or lentils.; Increase plant diversity; aim for 20-30 different types per week."
+23-04-2025,Guest,5.9,3.8,5.5,"Boost probiotics with yogurt, kefir, or kimchi."
+25-04-2025,Guest,4.8,5.9,6.8,"Increase fiber intake with oats, beans, or lentils."
+27-04-2025,Guest,5.1,5.4,5.3,All scores look good! Maintain your current routine.
+29-04-2025,Guest,5.8,4.6,4.6,"Boost probiotics with yogurt, kefir, or kimchi.; Increase plant diversity; aim for 20-30 different types per week."
+01-05-2025,Guest,4.6,5.4,7.3,"Increase fiber intake with oats, beans, or lentils."
+03-05-2025,Guest,5.6,4.7,6.7,"Boost probiotics with yogurt, kefir, or kimchi."
+05-05-2025,Guest,5.5,5,5.6,"Boost probiotics with yogurt, kefir, or kimchi."
+07-05-2025,Guest,5.6,5,5,All scores look good! Maintain your current routine.
+09-05-2025,Guest,6,5.1,6.5,All scores look good! Maintain your current routine.
+11-05-2025,Guest,5.2,3.8,5.4,"Boost probiotics with yogurt, kefir, or kimchi."
+13-05-2025,Guest,6.6,4.9,5.2,"Boost probiotics with yogurt, kefir, or kimchi."
+15-05-2025,Guest,5.1,4.6,5.8,"Boost probiotics with yogurt, kefir, or kimchi."
+17-05-2025,Guest,4.9,6,5.4,"Increase fiber intake with oats, beans, or lentils."
+19-05-2025,Guest,5.6,5.9,6.4,All scores look good! Maintain your current routine.
+21-05-2025,Guest,5.7,5.5,6.4,All scores look good! Maintain your current routine.
+23-05-2025,Guest,5.7,4.2,6.2,"Boost probiotics with yogurt, kefir, or kimchi."
+25-05-2025,Guest,6.1,5.3,4.9,Increase plant diversity; aim for 20-30 different types per week.
+27-05-2025,Guest,5.6,4.9,5.6,"Boost probiotics with yogurt, kefir, or kimchi."
+29-05-2025,Guest,6.8,6.3,6.4,All scores look good! Maintain your current routine.
+31-05-2025,Guest,6,5.6,5.6,All scores look good! Maintain your current routine.
+02-06-2025,Guest,5.6,4.7,5.5,"Boost probiotics with yogurt, kefir, or kimchi."
+04-06-2025,Guest,7.4,5.9,5.8,All scores look good! Maintain your current routine.
+06-06-2025,Guest,5.7,4.8,6.1,"Boost probiotics with yogurt, kefir, or kimchi."
+08-06-2025,Guest,5.9,4.3,5.8,"Boost probiotics with yogurt, kefir, or kimchi."
+10-06-2025,Guest,5.6,6.2,5.9,All scores look good! Maintain your current routine.
+12-06-2025,Guest,7.1,5.2,5.9,All scores look good! Maintain your current routine.
+14-06-2025,Guest,6,5.9,6,All scores look good! Maintain your current routine.
+16-06-2025,Guest,5.1,5.4,5.6,All scores look good! Maintain your current routine.
+18-06-2025,Guest,5.9,5.1,7,All scores look good! Maintain your current routine.
+20-06-2025,Guest,5.9,5,6.3,"Boost probiotics with yogurt, kefir, or kimchi."
+22-06-2025,Guest,5.9,5.2,6,All scores look good! Maintain your current routine.
+24-06-2025,Guest,6.3,5.6,6.4,All scores look good! Maintain your current routine.
+26-06-2025,Guest,6.4,5.2,5.8,All scores look good! Maintain your current routine.
+28-06-2025,Guest,5.7,5.5,5.1,All scores look good! Maintain your current routine.
+30-06-2025,Guest,4.8,5.4,4.8,"Increase fiber intake with oats, beans, or lentils.; Increase plant diversity; aim for 20-30 different types per week."
+02-07-2025,Guest,5.1,5.8,5.6,All scores look good! Maintain your current routine.
+04-07-2025,Guest,6.5,5.3,5.3,All scores look good! Maintain your current routine.
+06-07-2025,Guest,5.2,5.1,5.4,All scores look good! Maintain your current routine.
+08-07-2025,Guest,5.7,5.4,4.9,Increase plant diversity; aim for 20-30 different types per week.
+10-07-2025,Guest,6.4,4.6,6,"Boost probiotics with yogurt, kefir, or kimchi."
+12-07-2025,Guest,6.6,6.2,6.8,All scores look good! Maintain your current routine.
+14-07-2025,Guest,5.1,5.9,6.4,All scores look good! Maintain your current routine.
+16-07-2025,Guest,7,5.2,6.3,All scores look good! Maintain your current routine.
+18-07-2025,Guest,7.5,4.8,6.3,"Boost probiotics with yogurt, kefir, or kimchi."
+20-07-2025,Guest,6.8,5.1,6,All scores look good! Maintain your current routine.
+22-07-2025,Guest,5.7,5.2,5.4,All scores look good! Maintain your current routine.
+24-07-2025,Guest,6.7,5.7,6.7,All scores look good! Maintain your current routine.
+26-07-2025,Guest,5.7,5.5,6.4,All scores look good! Maintain your current routine.
+28-07-2025,Guest,6.6,4.8,6.1,"Boost probiotics with yogurt, kefir, or kimchi."
+30-07-2025,Guest,6.3,6,6.3,All scores look good! Maintain your current routine.
+01-08-2025,Guest,7.2,5.9,4.9,Increase plant diversity; aim for 20-30 different types per week.
+03-08-2025,Guest,5.4,6,5.5,All scores look good! Maintain your current routine.
+05-08-2025,Guest,7.1,5.9,5.5,All scores look good! Maintain your current routine.
+07-08-2025,Guest,7.3,5.4,4.9,Increase plant diversity; aim for 20-30 different types per week.
+09-08-2025,Guest,7.7,4.6,6.2,"Boost probiotics with yogurt, kefir, or kimchi."
+11-08-2025,Guest,6.9,5.8,4.7,Increase plant diversity; aim for 20-30 different types per week.
+13-08-2025,Guest,7.3,5.1,5.3,All scores look good! Maintain your current routine.
+15-08-2025,Guest,6.4,6.4,6.2,All scores look good! Maintain your current routine.
+17-08-2025,Guest,6.9,5.4,5.6,All scores look good! Maintain your current routine.
+19-08-2025,Guest,5.9,5.7,6.3,All scores look good! Maintain your current routine.
