@@ -1,8 +1,9 @@
 # microbiome_gut_health_assistant
 Chatbot with microbiome insights
 🧬 MIOME — Gut Health Assistant
-here dataset is avalialbe
-code file is not provided because of api key present in it
+
+#here dataset is avalialbe
+#code file is not provided because of api key present in it
 
 MIOME is an interactive Streamlit web app that helps users analyze their gut health scores and provides personalized advice through a chatbot interface.
 
